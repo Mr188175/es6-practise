@@ -10,9 +10,9 @@ const {name,dob,graduation,phone} = person;
 
 console.log(name,dob,graduation,phone);
 
-// এখানে আমরা শিখলাম Destructer কী।
+// এখানে আমরা শিখলাম Destructure কী।
 
-// Destructer হচ্ছে কোন বিশাল object থেকে কিছু সংখ্যাক property নেয়া।
+// Destructure হচ্ছে কোন বিশাল object থেকে কিছু সংখ্যাক property নেয়া।
 
 
 // আমরা চাইলে object ভেতর আরেকটা object কে নিতে পারি।
