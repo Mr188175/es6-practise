@@ -3,7 +3,7 @@ console.log(name);
 
 
 
-// We can not do this because we can change the value of const variable.
+// We can not do this because we can not change the value of const variable.
 // name = 'Amir Khan';
 // console.log(name);
 
